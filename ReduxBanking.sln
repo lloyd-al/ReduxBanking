@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReduxBanking", "ReduxBanking\ReduxBanking.csproj", "{DB3E98E6-F4F0-419F-BA5E-74F8A639014A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB3E98E6-F4F0-419F-BA5E-74F8A639014A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3E98E6-F4F0-419F-BA5E-74F8A639014A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3E98E6-F4F0-419F-BA5E-74F8A639014A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3E98E6-F4F0-419F-BA5E-74F8A639014A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8635520A-39BE-49D0-A927-EA4B7F9DAEC4}
+	EndGlobalSection
+EndGlobal
